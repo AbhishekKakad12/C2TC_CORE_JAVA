@@ -1,4 +1,4 @@
-package çom.capgemini.javademos;
+package com.capgemini.javademos;
 
 public class Loops {
 
